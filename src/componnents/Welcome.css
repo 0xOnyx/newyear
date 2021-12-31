@@ -1,0 +1,30 @@
+.Welcome
+{
+    z-index: 99;
+    overflow: hidden;
+}
+
+.ml4 {
+
+    font-weight: 900;
+    font-size: 4em;
+
+    
+    position: absolute;
+
+    left: 0px;
+    right: 0px;
+    top: 30%;
+    bottom: 50%;
+    
+
+
+}
+  .ml4 .letters {
+    position: absolute;
+    margin: auto;
+    left: 0;
+    top: 0.3em;
+    right: 0;
+    opacity: 0; 
+  }
