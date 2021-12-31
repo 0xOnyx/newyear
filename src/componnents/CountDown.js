@@ -6,7 +6,7 @@ function CountDown({date})
     
     return(
         <div>
-            <p>{date.getSeconds()}</p>
+            <p>{ 60 - date.getSeconds() }</p>
         </div>
     )
 }
