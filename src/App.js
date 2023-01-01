@@ -24,7 +24,7 @@ function App() {
       <header className="App-header">
 
         {
-          (time.getFullYear() === 2021) ?  //to MODIFY
+          (time.getFullYear() === 2023) ?  //to MODIFY
             <NewYearMessage /> :
             <CountDown date={ time }/> 
         }

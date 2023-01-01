@@ -13,7 +13,7 @@ function Welcome()
     ml4.scaleOut = 3;
     ml4.durationIn = 700;
     ml4.durationOut = 500;
-    ml4.delay = 500;
+    ml4.delay = 800;
 
     return (
         <div className="Welcome">
@@ -102,10 +102,10 @@ function Welcome()
             >
                 <h1 className="ml4">
                     <span className="letters letters-1">Voila🥳</span>
-                    <span className="letters letters-2">C'est 2022🤩</span>
-                    <span className="letters letters-3">Je voulais</span>
-                    <span className="letters letters-4">juste te dire😁</span>
-                    <span className="letters letters-5">je t'aime❤️</span>
+                    <span className="letters letters-2">C'est 2023🤩</span>
+                    <span className="letters letters-3">Laissez derrière vous les problèmes de l'année passée!</span>
+                    <span className="letters letters-4">Que cette nouvelle année soit pleine de bonheur, de santé et de prospérité.😁</span>
+                    <span className="letters letters-5">Bonne année à tous!🔥</span>
                 </h1>
             </Anime>
         </div>
